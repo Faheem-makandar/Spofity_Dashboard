@@ -3,6 +3,46 @@ A Spotify Dashboard in Power BI is an interactive data visualization tool that a
 Key components and steps to create a Spotify Dashboard in Power BI:
 
 Obtain Spotify streaming data from datasets or API sources.
+# 🎧 Spotify Dashboard – Power BI Analytics Project
+
+This Power BI dashboard provides deep insights into Spotify music trends including top artists, most-streamed tracks, genres, popularity distribution, and listening patterns across different time periods.  
+The goal of this project is to transform raw Spotify data into meaningful visual analytics for business insights and decision-making.
+
+---
+
+## 📌 Project Objectives
+✔ Analyze most-streamed tracks and artists  
+✔ Understand music popularity and trends across time  
+✔ Compare genres and their market share  
+✔ Identify audio feature distribution (danceability, energy, tempo, valence etc.)  
+✔ Create an interactive dashboard for business insights
+
+---
+
+## 📊 Dataset Details
+| Source | Kaggle / Spotify API |
+|--------|---------------------|
+| Rows   | ~50,000+ tracks |
+| Format | CSV / JSON |
+| Key Columns | Track Name, Artist, Genre, Popularity, Release Date, BPM, Energy, Danceability, Duration, Streams |
+
+You may replace with your dataset link:
+📎 *Dataset link:* `https://www.kaggle.com/...`
+
+---
+
+## 🛠️ Tools & Technologies
+| Tool | Purpose |
+|------|---------|
+| Power BI | Data Cleaning, Data Modeling, Visualization |
+| Power Query | ETL / Data Transformation |
+| DAX | Measures and Calculations |
+| Excel / CSV | Raw Data |
+| Canva / Figma *(optional)* | Dashboard Design Theme |
+
+---
+
+## 🧠 Data Model Overview
 
 Clean and preprocess the data using Power BI's Power Query Editor.
 
