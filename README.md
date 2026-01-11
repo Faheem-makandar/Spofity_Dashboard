@@ -61,3 +61,8 @@ Arrange visuals with a clean, branded layout, sometimes using a PowerPoint backg
 Resources to follow for creating this dashboard include example projects on GitHub and Kaggle, YouTube tutorials for hands-on step-by-step guidance, and detailed documentations on the visualization types and DAX formulas used in Spotify dashboards.​​
 
 If you want, I can provide a concise stepwise guide or sample DAX formulas for a Spotify
+
+
+SCREENSHOT
+
+https://github.com/Faheem-makandar/Spofity_Dashboard/blob/main/Screenshot%202025-12-25%20185729.png
