@@ -65,4 +65,7 @@ If you want, I can provide a concise stepwise guide or sample DAX formulas for a
 
 SCREENSHOT
 
+<img width="901" height="595" alt="image" src="https://github.com/user-attachments/assets/168c279a-6a17-44e6-8496-f44127af6fb1" />
+
+
 https://github.com/Faheem-makandar/Spofity_Dashboard/blob/main/Screenshot%202025-12-25%20185729.png
